@@ -1,0 +1,4 @@
+-- DELETE SIMPLES
+
+DELETE FROM notas
+WHERE id = 1;
