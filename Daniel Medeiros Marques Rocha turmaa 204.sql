@@ -1,0 +1,5 @@
+-- CONSULTAS PARA VERIFICAR DADOS RESTANTES
+
+SELECT * FROM notas;
+
+SELECT * FROM disciplinas WHERE professor_id IS NULL;
